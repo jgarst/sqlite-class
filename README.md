@@ -7,3 +7,4 @@ This class has three mostly independent parts.  The first section is on managing
 2. The second part of the class uses the San Fransisco trees [datasette](https://san-francisco.datasettes.com/sf-trees-ebc2ad9).
 3. My favorite tutorial for writing SQL queries is the [Mode Analytics sql tutorial](https://mode.com/sql-tutorial/).
 4. My favorite textbook on SQL is "Visual Quickstart Guide" by Chris Fehily.
+5. If you want more practice writing SQL queries, try solving the [SQL Murder Mystery](http://mystery.knightlab.com/).
